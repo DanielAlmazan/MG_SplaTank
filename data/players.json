@@ -1,0 +1,65 @@
+{
+  "ANACLET": {
+    "Name": "ANACLET",
+    "Points": 179,
+    "Record": 9999999,
+    "MatchesWon": 2,
+    "MatchesLost": 1
+  },
+  "D": {
+    "Name": "D",
+    "Points": 139,
+    "Record": 268,
+    "MatchesWon": 5,
+    "MatchesLost": 2
+  },
+  "A": {
+    "Name": "A",
+    "Points": 0,
+    "Record": 430,
+    "MatchesWon": 2,
+    "MatchesLost": 5
+  },
+  "DANI": {
+    "Name": "DANI",
+    "Points": 1451,
+    "Record": 1451,
+    "MatchesWon": 1,
+    "MatchesLost": 0
+  },
+  "JAVI": {
+    "Name": "JAVI",
+    "Points": 0,
+    "Record": 0,
+    "MatchesWon": 0,
+    "MatchesLost": 1
+  },
+  "CRISPIS": {
+    "Name": "CRISPIS",
+    "Points": 96,
+    "Record": 96,
+    "MatchesWon": 0,
+    "MatchesLost": 1
+  },
+  "DANIEH": {
+    "Name": "DANIEH",
+    "Points": 473,
+    "Record": 473,
+    "MatchesWon": 1,
+    "MatchesLost": 0
+  },
+  "AITOR": {
+    "Name": "AITOR",
+    "Points": 133,
+    "Record": 133,
+    "MatchesWon": 0,
+    "MatchesLost": 1
+  },
+  "MARGARET": {
+    "Name": "MARGARET",
+    "Points": 535,
+    "Record": 535,
+    "MatchesWon": 1,
+    "MatchesLost": 0
+  }
+}
